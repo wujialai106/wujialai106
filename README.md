@@ -50,24 +50,31 @@ I'm a passionate **Software Developer** with a strong background in **Web Develo
 ---
 
 ## 📌 **Highlighted Projects**
-### **📌 Personal Academic Webpage** ([GitHub Repo](#))
-- 🌐 Built a **Jekyll-based academic website** to showcase **neuroscience research**.
-- 💡 Designed a **responsive UI with Bootstrap 5**, reducing bounce rate by **25%**.
-- 🚀 Integrated **Liquid templates + SCSS** for dynamic content management.
+### **📌 Modern University Educational Administration System** *(Sep 2024 - Dec 2024)*
+- 🏫 Built a **Spring Boot-based educational system** for **university student academic management**.
+- 🛠 Utilized **MySQL and Spring Data JPA** for efficient database operations and **Postman** for testing RESTful APIs.
+- ⚡ Enhanced **maintainability & scalability** with **DTO conversion, service layers & structured custom exception handling**.
 
-### **📌 Local Event & Weather Inquiry Platform** ([GitHub Repo](#))
-- 🎫 Integrated **Ticketmaster API for event listings** & **OpenAI GPT for weather insights**.
-- ⚡ Used **Node.js + Express.js** for RESTful API handling & enhanced rate-limiting strategies.
+### **📌 Laboratory Academic Webpage** *(Jan 2025 - Mar 2025)*
+- 🧠 Developed a **Jekyll-based academic webpage** on **GitHub Pages** to showcase **neuroscience research**.
+- 🎨 Designed a **responsive UI with Bootstrap 5**, improving usability & reducing **bounce rate by 25%**.
+- 🔧 Customized **SCSS styles & Liquid templates** for dynamic content management and **automated deployment**.
 
-### **📌 City Typhoon Safety Management System** ([GitHub Repo](#))
-- 📊 Developed a **Java-based platform** for **real-time typhoon emergency response**.
-- 🌍 Integrated **Google Maps API** for live tracking & text-to-speech conversion.
-- 🚨 Reduced emergency response time by **30%** using AI-driven optimizations.
+### **📌 City Typhoon Safety Management System** *(Jan 2024 - Apr 2024)*
+- 🚨 Built a **Java-based emergency response platform** using **JUnit for testing** & **DB4O for data storage**.
+- 🗺️ Integrated **Google Maps API** for **geographic visualization** & **rescue operations tracking**.
+- ⚙️ Designed a **modular system** with **role-based access control** & **dynamic work queues**.
 
-### **📌 Modern University Administration System** ([GitHub Repo](#))
-- 🎓 **React + Redux + Spring Boot** based system for **academic management**.
-- 🚀 Deployed on **AWS (EC2 + S3)** with **RESTful APIs & MySQL** backend.
-- 🛠 **Unit testing with Jest + Mocha** for API reliability.
+### **📌 Local Event and Weather Inquiry Platform** *(May 2024 - Aug 2024)*
+- 🎭 Developed a **robust web app** using **HTML, CSS, JavaScript**, integrating **Ticketmaster API for events** & **OpenAI GPT for weather queries**.
+- 🔗 Implemented **RESTful APIs** with **Node.js & Express.js** for efficient data flow.
+- 🚀 Enhanced API efficiency with **error handling & rate limiting strategies**.
+
+### **📌 Michelin Ranking System Database Design** *(Sep 2023 - Dec 2023)*
+- 🍽️ Built a **SQL Server platform** for **personalized restaurant recommendations**.
+- 🤖 Used **Machine Learning (Random Forest, Decision Tree, XGBRegressor) + GridSearchCV & Optuna**, achieving **93% accuracy**.
+- 📊 Created **interactive dashboards** with **Tableau, Seaborn, and Matplotlib** for data insights.
+
 
 ---
 
